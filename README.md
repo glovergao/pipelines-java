@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/GloverGao0483/DevOpsPipeline/_apis/build/status/glovergao.pipelines-java?branchName=master)](https://dev.azure.com/GloverGao0483/DevOpsPipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
